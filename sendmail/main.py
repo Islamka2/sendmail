@@ -24,7 +24,7 @@ sheet = wb['test']
 send_len = int(input("Сколько людей?"))
 sender_email = "islamkaawad@gmail.com"
 
-password = "Islamhaha228"
+password = ""
 mails = ['islamkaawad2@gmail.com', 'ermek_2000@mail.ru', 'kesha000099@gmail.com','medvedpwnz@gmail.com']
 message = MIMEMultipart("alternative")
 message["Subject"] = "multipart test"
